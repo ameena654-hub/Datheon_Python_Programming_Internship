@@ -1,0 +1,54 @@
+{
+    "hours": {
+        "keywords": [
+            "hours",
+            "timing",
+            "open",
+            "close"
+        ],
+        "answer": "Our business hours are Monday to Saturday, 9 AM to 6 PM."
+    },
+    "products": {
+        "keywords": [
+            "product",
+            "products",
+            "items",
+            "sell"
+        ],
+        "answer": "We offer electronics, accessories and daily-use products."
+    },
+    "price": {
+        "keywords": [
+            "price",
+            "cost",
+            "payment",
+            "charges"
+        ],
+        "answer": "Our prices depend on the product. Please contact our sales team."
+    },
+    "delivery": {
+        "keywords": [
+            "delivery",
+            "shipping",
+            "deliver"
+        ],
+        "answer": "Standard delivery usually takes 3-5 business days."
+    },
+    "return": {
+        "keywords": [
+            "return",
+            "refund",
+            "exchange"
+        ],
+        "answer": "Products can be returned within 7 days of delivery."
+    },
+    "contact": {
+        "keywords": [
+            "contact",
+            "phone",
+            "email",
+            "support"
+        ],
+        "answer": "You can contact our support team at support@example.com."
+    }
+}
